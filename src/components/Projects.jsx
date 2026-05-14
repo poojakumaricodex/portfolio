@@ -17,7 +17,7 @@ const Projects = () => {
       description: 'A comprehensive interactive customer analysis dashboard engineered to visualize and analyze shifting regional food consumption trends.',
       metric: 'Reduced reporting time by 20% with automated ETL pipelines.',
       tags: ['Power BI', 'Excel', 'ETL', 'DAX', 'Power Query'],
-      links: { github: 'https://github.com/poojakumaricodex/Android-Malware-Detection-Using-ML-and-Static-analysis', external: '#' },
+      links: { github: 'https://github.com/poojakumaricodex/infosys-data-analytics-internship', external: '#' },
       color: 'from-brand-blue to-brand-purple'
     },
     {
