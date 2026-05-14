@@ -1,11 +1,10 @@
-# Portfolio
+#⚡Portfolio
 
 ## 🌐 Live Demo : https://portfolio-five-phi-83.vercel.app/
 
 A modern, responsive portfolio website built with React and Vite. Showcasing projects, skills, experience, and education with smooth animations and interactive components.
 
-## 🌟 Features
-
+## 🌟 Features 
 - **Responsive Design** - Fully responsive across all devices
 - **Smooth Animations** - Powered by Framer Motion for engaging UI transitions
 - **Fast Performance** - Built with Vite for optimal build times and HMR
@@ -17,14 +16,14 @@ A modern, responsive portfolio website built with React and Vite. Showcasing pro
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework:** 
-- **Build Tool:** 
-- **Styling:** 
-- **Animations:** 
-- **Email Service:** 
-- **Icons:** 
-- **Smooth Scrolling:** 
-- **Code Quality:** 
+- **Frontend Framework** 
+- **Build Tool** 
+- **Styling** 
+- **Animations** 
+- **Email Service** 
+- **Icons** 
+- **Smooth Scrolling** 
+- **Code Quality** 
 
 ## 📋 Project Structure
 
