@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-black: #050505;
+  --color-brand-purple-dark: #1f053a;
+  --color-brand-purple: #a855f7;
+  --color-brand-pink: #ec4899;
+  --color-brand-blue: #3b82f6;
+  --color-brand-white: #f8fafc;
+  --color-brand-gray: #94a3b8;
+  
+  --font-sans: 'Inter', 'DM Sans', sans-serif;
+  --font-mono: 'Fira Code', 'SF Mono', monospace;
+}
+
+@layer base {
+  body {
+    @apply bg-brand-black text-brand-gray font-sans antialiased leading-relaxed overflow-x-hidden;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-brand-white font-bold tracking-tight;
+  }
+  
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-brand-black;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-brand-purple-dark border border-brand-purple/20 rounded-full;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-brand-purple/50;
+  }
+}
+
+/* Glassmorphism utility */
+@utility glass-panel {
+  @apply bg-brand-black/40 backdrop-blur-xl border border-white/10 shadow-xl;
+}
+
+/* Gradient Text utility */
+@utility text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-brand-purple via-brand-pink to-brand-blue;
+}
