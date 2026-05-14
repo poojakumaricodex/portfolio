@@ -1,4 +1,4 @@
-# Pooja Kumari | Data Analyst Portfolio
+# Portfolio
 
 ## 🌐 Live Demo : https://portfolio-five-phi-83.vercel.app/
 
