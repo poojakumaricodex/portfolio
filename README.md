@@ -1,7 +1,6 @@
 # Pooja Kumari | Data Analyst Portfolio
 
-## 🌐 Live Demo
-https://portfolio-five-phi-83.vercel.app/
+## 🌐 Live Demo : https://portfolio-five-phi-83.vercel.app/
 
 A modern, responsive portfolio website built with React and Vite. Showcasing projects, skills, experience, and education with smooth animations and interactive components.
 
