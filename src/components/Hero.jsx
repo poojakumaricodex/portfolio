@@ -99,10 +99,7 @@ const Hero = () => {
               rel="noopener noreferrer"
               className="relative inline-flex group cursor-pointer w-full sm:w-auto mt-2 sm:mt-0"
             >
-              <button 
-                className="w-full relative inline-flex items-center justify-center px-8 py-3 text-sm font-bold text-brand-white transition-all duration-200 bg-brand-purple/20 border border-brand-purple/50 rounded-full hover:bg-brand-purple"
-              >
-                <Download className="w-4 h-4 mr-2" />
+              
                 Download Resume
               </button>
             </a>
