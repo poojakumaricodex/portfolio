@@ -94,7 +94,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1TNzLY6l5cGi9BDLFUhRZj_UyhbvTZETC/view?usp=drive_link"
+              
               target="_blank"
               rel="noopener noreferrer"
               className="relative inline-flex group cursor-pointer w-full sm:w-auto mt-2 sm:mt-0"
