@@ -94,12 +94,12 @@ const Hero = () => {
             </a>
 
             <a
-              
+              href="/your-resume-file.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="relative inline-flex group cursor-pointer w-full sm:w-auto mt-2 sm:mt-0"
             >
-              
+              <button className="relative inline-flex items-center justify-center px-8 py-3 text-sm font-bold text-brand-white transition-all duration-200 bg-transparent border border-white/20 rounded-full hover:bg-white/5">
                 Download Resume
               </button>
             </a>
