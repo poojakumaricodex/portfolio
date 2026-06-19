@@ -95,7 +95,7 @@ const Projects = () => {
                   {project.title}
                 </h3>
                 
-                <p className="text-brand-gray text-sm md:text-base mb-4 line-clamp-2 leading-relaxed">
+                <p className="text-brand-gray text-sm md:text-base mb-4 line-clamp-4 leading-relaxed">
                   {project.description}
                 </p>
 
