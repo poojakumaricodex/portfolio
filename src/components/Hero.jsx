@@ -49,7 +49,7 @@ const Hero = () => {
             className="mb-8"
           >
             <span className="inline-block py-1 px-3 rounded-full bg-brand-blue/10 border border-brand-blue/30 text-brand-blue font-semibold text-sm shadow-[0_0_10px_rgba(59,130,246,0.2)]">
-              🚀 Open to Data Analyst Internships & Entry-Level Roles
+              🚀 Open to Data Analyst, Business Analyst & BI Analyst Roles
             </span>
           </motion.div>
 
@@ -59,7 +59,7 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.4 }}
             className="max-w-xl mx-auto lg:mx-0 text-lg text-brand-gray mb-10 leading-relaxed"
           >
-            Final-year Computer Science (Data Science) student specializing in predictive modeling, EDA, dashboards, and data storytelling.
+            Computer Science (Data Science) graduate skilled in SQL, Power BI, Excel, and Python. Passionate about transforming data into actionable business insights through dashboards, analytics, and data storytelling.
           </motion.p>
 
           <motion.div
