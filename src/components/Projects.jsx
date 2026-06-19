@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: 'Retail Business Intelligence & Customer Segmentation',
       description: 'Built a 4-page BI dashboard to visualize profitability, regional performance, and discount impact. Performed end-to-end analysis including data cleaning, EDA, customer segmentation via clustering, and SQL-driven business insights.',
-      metric: ''Analyzed 51,290+ retail transactions; identified that >20% discounts significantly erode margins',
+      metric: 'Analyzed 51,290+ retail transactions; identified that >20% discounts significantly erode margins',
       tags: ['SQL', 'Python', 'Power BI', 'Pandas', 'DAX', 'Scikit-Learn', 'ETL'],
       links: { github: 'https://github.com/poojakumaricodex/Retail-Business-Intelligence-Customer-Segmentation-Analysis', external: '#' },
       color: 'from-brand-green to-brand-blue'
