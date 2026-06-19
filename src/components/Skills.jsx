@@ -4,16 +4,15 @@ import GlassCard from './GlassCard';
 
 const Skills = () => {
   const skills = [
-    { name: 'SQL', level: 'Advanced', value: 95, details: 'Complex queries, Joins, Window functions', color: 'from-brand-purple to-brand-blue' },
-    { name: 'Python', level: 'Advanced', value: 90, details: 'Data manipulation, automation, APIs', color: 'from-brand-blue to-brand-purple' },
-    { name: 'Power BI', level: 'Advanced', value: 90, details: 'DAX, KPI dashboards, Data modeling', color: 'from-brand-pink to-brand-purple' },
-    { name: 'Excel', level: 'Advanced', value: 95, details: 'Pivot tables, VLOOKUP, Macros', color: 'from-brand-purple to-brand-pink' },
+    { name: 'SQL', level: 'Advanced', value: 95, details: 'Joins, CTEs, Window Functions, Subqueries', color: 'from-brand-purple to-brand-blue' },
+    { name: 'Python', level: 'Intermediate', value: 80, details: 'Pandas, NumPy, Data Cleaning, Automation', color: 'from-brand-blue to-brand-purple' },
+    { name: 'Power BI', level: 'Advanced', value: 90, details: 'DAX, Data Modeling, KPI Dashboards, Power Query', color: 'from-brand-pink to-brand-purple' },
+    { name: 'Excel', level: 'Advanced', value: 95, details: 'Pivot Tables, XLOOKUP, Power Query, Data Analysis', color: 'from-brand-purple to-brand-pink' },
     
-    { name: 'Pandas', level: 'Advanced', value: 90, details: 'Data cleaning, transformation, EDA', color: 'from-brand-purple to-brand-blue' },
-    { name: 'NumPy', level: 'Proficient', value: 80, details: 'Numerical computing, Array operations', color: 'from-brand-pink to-brand-blue' },
-    { name: 'Machine Learning', level: 'Intermediate', value: 70, details: 'Predictive modeling, Scikit-learn', color: 'from-brand-blue to-brand-purple' },
-    { name: 'Statistics', level: 'Proficient', value: 80, details: 'Probability, Hypothesis testing', color: 'from-brand-purple to-brand-pink' },
-    { name: 'EDA', level: 'Advanced', value: 95, details: 'Exploratory Data Analysis, Storytelling', color: 'from-brand-pink to-brand-purple' },
+    { name: 'Pandas', level: 'Intermediate', value: 90, details: 'Data Cleaning, Transformation, EDA', color: 'from-brand-purple to-brand-blue' },
+    { name: 'Machine Learning', level: 'Intermediate', value: 70, details: 'Classification, Scikit-Learn, Model Evaluation', color: 'from-brand-blue to-brand-purple' },
+    { name: 'Statistics', level: 'Proficient', value: 80, details: 'Descriptive Statistics, Probability, Hypothesis Testing', color: 'from-brand-purple to-brand-pink' },
+    { name: 'EDA', level: 'Advanced', value: 95, details: 'Data Profiling, Visualization, Business Insights', color: 'from-brand-pink to-brand-purple' },
   ];
 
   return (
