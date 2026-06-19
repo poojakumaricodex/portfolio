@@ -7,7 +7,7 @@ const About = () => {
   const infoChips = [
     { icon: <MapPin className="w-4 h-4 text-brand-pink" />, text: "Hyderabad" },
     { icon: <GraduationCap className="w-4 h-4 text-brand-purple" />, text: "B.Tech Data Science" },
-    { icon: <Briefcase className="w-4 h-4 text-brand-blue" />, text: "Open to Internships" },
+    { icon: <Briefcase className="w-4 h-4 text-brand-blue" />, text: "Available for Full-Time Opportunities" },
     { icon: <BarChart className="w-4 h-4 text-brand-purple" />, text: "Data Analyst" },
   ];
 
