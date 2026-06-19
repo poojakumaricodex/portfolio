@@ -13,9 +13,9 @@ const Projects = () => {
       color: 'from-brand-green to-brand-blue'
     },
     {
-      title: 'Zomato Data Analysis Dashboard',
-      description: 'Processed and analyzed complex restaurant data to uncover pricing strategies and location-based demand trends across major cities.',
-      metric: 'Analyzed 50K+ restaurant records to drive pricing insights.',
+      title: 'Zomato Restaurant Insights Dashboard',
+      description: 'Processed and analyzed complex restaurant data to uncover pricing strategies and location-based demand trends across major cities. Conducted end-to-end data cleaning, KPI development, and interactive dashboard design.',
+      metric: 'Analyzed 50K+ restaurant records to drive pricing insights and optimize market strategy.',
       tags: ['PostgreSQL', 'Excel', 'Data Visualization', 'Pivot Tables'],
       links: { github: 'https://github.com/poojakumaricodex/zomato-restaurant-insights-dashboard', external: '#' },
       color: 'from-brand-purple to-brand-pink'
