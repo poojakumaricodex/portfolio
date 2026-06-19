@@ -217,7 +217,7 @@ const Contact = () => {
               </div>
               <div>
                 <div className="text-xs uppercase tracking-wider text-purple-400/80 mb-1">Location</div>
-                <span className="text-sm sm:text-base font-medium">Chintal, Telangana</span>
+                <span className="text-sm sm:text-base font-medium">Chintal, Telangana, India</span>
               </div>
             </motion.div>
 
