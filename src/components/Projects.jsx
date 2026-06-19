@@ -5,6 +5,14 @@ import { FaGithub } from 'react-icons/fa';
 const Projects = () => {
   const projects = [
     {
+      title: 'Retail Business Intelligence & Customer Segmentation',
+      description: 'Built a 4-page BI dashboard to visualize profitability, regional performance, and discount impact. Performed end-to-end analysis including data cleaning, EDA, customer segmentation via clustering, and SQL-driven business insights.',
+      metric: ''Analyzed 51,290+ retail transactions; identified that >20% discounts significantly erode margins',
+      tags: ['SQL', 'Python', 'Power BI', 'Pandas', 'DAX', 'Scikit-Learn', 'ETL'],
+      links: { github: 'https://github.com/poojakumaricodex/Retail-Business-Intelligence-Customer-Segmentation-Analysis', external: '#' },
+      color: 'from-brand-green to-brand-blue'
+    },
+    {
       title: 'Zomato Data Analysis Dashboard',
       description: 'Processed and analyzed complex restaurant data to uncover pricing strategies and location-based demand trends across major cities.',
       metric: 'Analyzed 50K+ restaurant records to drive pricing insights.',
@@ -62,7 +70,7 @@ const Projects = () => {
         <div className="mb-16 relative text-center lg:text-left">
           <h2 className="text-4xl md:text-5xl font-extrabold text-brand-white tracking-tight flex items-end justify-center lg:justify-start">
             <span className="text-brand-blue font-mono text-2xl font-normal mr-4 drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]">03.</span>
-            Executed Protocols
+            Featured Projects
           </h2>
           <div className="mt-4 h-[2px] w-48 bg-gradient-to-r from-brand-blue to-transparent shadow-[0_0_10px_rgba(59,130,246,0.8)] mx-auto lg:mx-0"></div>
         </div>
