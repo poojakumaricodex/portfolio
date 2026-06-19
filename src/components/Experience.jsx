@@ -8,7 +8,7 @@ const Experience = () => {
       company: 'Infosys Springboard',
       role: 'Data Visualization Intern',
       period: 'Sep 2025 – Nov 2025',
-      tech: ['Power BI', 'SQL', 'Excel', 'Python'],
+      tech: ['Power BI', 'SQL', 'Excel', 'DAX'],
       points: [
         'Analyzed 2,000+ transaction records to identify patterns and trends.',
         'Built dynamic Power BI dashboards that cut manual reporting time by 20%.',
@@ -22,9 +22,9 @@ const Experience = () => {
       period: 'Jun 2025 – Jul 2025',
       tech: ['Python', 'NLP', 'Data Analysis', 'APIs'],
       points: [
-        'Analyzed 470+ user interaction data points to evaluate system performance.',
-        'Improved chatbot responses leading to a 4.6/5 user satisfaction score.',
-        'Enhanced conversational flow using data-driven insights and pattern recognition.',
+        'Strengthened chatbot engagement to a 4.6/5 satisfaction rating, as assessed via user feedback across 470+ interaction records.',
+        'Conducted behavioral analysis and A/B-style testing to restructure 15+ complex dialogue paths.',
+        'Enhanced conversational flow using data-driven insights and pattern recognition to reduce user drop-off.',
       ],
       color: 'purple'
     }
