@@ -12,7 +12,7 @@ const Experience = () => {
       points: [
         'Analyzed 2,000+ transaction records to identify patterns and trends.',
         'Built dynamic Power BI dashboards that cut manual reporting time by 20%.',
-        'Performed customer segmentation to assist with targeted marketing strategies.',
+        'Performed customer segmentation to optimize targeted marketing strategies, resulting in improved campaign efficiency.',
       ],
       color: 'pink'
     },
