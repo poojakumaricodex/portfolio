@@ -30,7 +30,7 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-5xl sm:text-7xl font-extrabold text-brand-white mb-2 tracking-tight"
           >
-            Pooja Kumari.
+            Pooja Kumari
           </motion.h1>
           
           <motion.h2
