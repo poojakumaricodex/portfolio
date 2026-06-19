@@ -10,7 +10,7 @@ const Skills = () => {
     { name: 'Excel', level: 'Advanced', value: 95, details: 'Pivot Tables, XLOOKUP, Power Query, Data Analysis', color: 'from-brand-purple to-brand-pink' },
     
     { name: 'Pandas', level: 'Intermediate', value: 90, details: 'Data Cleaning, Transformation, EDA', color: 'from-brand-purple to-brand-blue' },
-    { name: 'Machine Learning', level: 'Intermediate', value: 70, details: 'Classification, Scikit-Learn, Model Evaluation', color: 'from-brand-blue to-brand-purple' },
+    { name: 'Machine Learning', level: 'Intermediate', value: 80, details: 'Classification, Scikit-Learn, Model Evaluation', color: 'from-brand-blue to-brand-purple' },
     { name: 'Statistics', level: 'Proficient', value: 80, details: 'Descriptive Statistics, Probability, Hypothesis Testing', color: 'from-brand-purple to-brand-pink' },
     { name: 'EDA', level: 'Advanced', value: 95, details: 'Data Profiling, Visualization, Business Insights', color: 'from-brand-pink to-brand-purple' },
   ];
