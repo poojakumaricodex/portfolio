@@ -19,7 +19,7 @@ function App() {
           <Experience />
           <Projects />
           <Skills />
-          <Education />
+          <Education />   {/* This will now display the heading "Certifications" */}
           <Contact />
         </main>
       </div>
