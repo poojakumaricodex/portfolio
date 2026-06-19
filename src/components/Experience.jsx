@@ -20,7 +20,7 @@ const Experience = () => {
       company: 'Viswam.AI',
       role: 'AI Developer Intern',
       period: 'Jun 2025 – Jul 2025',
-      tech: ['Python', 'NLP', 'Data Analysis', 'APIs'],
+      tech: ['Python', 'NLP', 'Data Analysis', 'APIs', 'Streamlit'],
       points: [
         'Strengthened chatbot engagement to a 4.6/5 satisfaction rating, as assessed via user feedback across 470+ interaction records.',
         'Conducted behavioral analysis and A/B-style testing to restructure 15+ complex dialogue paths.',
