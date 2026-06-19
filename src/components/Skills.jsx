@@ -26,8 +26,8 @@ const Skills = () => {
       >
         <div className="mb-16 relative text-center lg:text-left">
           <h2 className="text-4xl md:text-5xl font-extrabold text-brand-white tracking-tight flex items-end justify-center lg:justify-start">
-            <span className="text-brand-purple font-mono text-2xl font-normal mr-4 drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]">02.</span>
-            Technical Arsenal
+            <span className="text-brand-purple font-mono text-2xl font-normal mr-4 drop-shadow-[0_0_8px_rgba(168,85,247,0.8)]">04.</span>
+            Technical Skills
           </h2>
           <div className="mt-4 h-[2px] w-48 bg-gradient-to-r from-brand-purple to-transparent shadow-[0_0_10px_rgba(168,85,247,0.8)] mx-auto lg:mx-0"></div>
         </div>
