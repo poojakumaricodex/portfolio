@@ -21,7 +21,7 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-brand-pink font-mono mb-4 tracking-wider uppercase text-sm drop-shadow-[0_0_8px_rgba(236,72,153,0.5)]"
           >
-            Accessing Neural Link...
+            
           </motion.div>
           
           <motion.h1
