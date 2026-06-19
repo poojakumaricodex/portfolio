@@ -54,7 +54,7 @@ const About = () => {
               <div className="h-[1px] w-full bg-gradient-to-r from-brand-purple/30 to-transparent"></div>
               
               <p>
-                Currently operating at <span className="text-white font-medium">MRIET, Hyderabad</span> (CGPA: 8.37), scheduled for full system deployment in May 2026. My runtime environment is optimized for <span className="bg-clip-text text-transparent bg-gradient-to-r from-brand-blue to-brand-purple font-bold drop-shadow-[0_0_8px_rgba(59,130,246,0.5)]">Python</span>, <span className="bg-clip-text text-transparent bg-gradient-to-r from-brand-blue to-brand-purple font-bold drop-shadow-[0_0_8px_rgba(59,130,246,0.5)]">SQL</span>, and <span className="bg-clip-text text-transparent bg-gradient-to-r from-brand-blue to-brand-purple font-bold drop-shadow-[0_0_8px_rgba(59,130,246,0.5)]">Machine Learning</span> models.
+                Currently operating at <span className="text-white font-medium">MRIET, Hyderabad</span> (CGPA: 8.50), scheduled for full system deployment in May 2026. My runtime environment is optimized for <span className="bg-clip-text text-transparent bg-gradient-to-r from-brand-blue to-brand-purple font-bold drop-shadow-[0_0_8px_rgba(59,130,246,0.5)]">Python</span>, <span className="bg-clip-text text-transparent bg-gradient-to-r from-brand-blue to-brand-purple font-bold drop-shadow-[0_0_8px_rgba(59,130,246,0.5)]">SQL</span>, and <span className="bg-clip-text text-transparent bg-gradient-to-r from-brand-blue to-brand-purple font-bold drop-shadow-[0_0_8px_rgba(59,130,246,0.5)]">Machine Learning</span> models.
               </p>
               
               <p>
