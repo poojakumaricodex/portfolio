@@ -8,7 +8,7 @@ const Experience = () => {
       company: 'Infosys Springboard',
       role: 'Data Visualization Intern',
       period: 'Sep 2025 – Nov 2025',
-      tech: ['Power BI', 'SQL', 'Excel', 'DAX'],
+      tech: ['Power BI', 'Excel', 'DAX'],
       points: [
         'Analyzed 2,000+ transaction records to identify patterns and trends.',
         'Built dynamic Power BI dashboards that cut manual reporting time by 20%.',
