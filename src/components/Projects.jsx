@@ -5,21 +5,20 @@ import { FaGithub } from 'react-icons/fa';
 const Projects = () => {
   const projects = [
     {
-      title: 'QueryIQ — AI-Powered Natural Language Data Analysis',
-      description: 'Built an AI-powered data analytics platform that lets users upload CSV/Excel datasets and ask business questions in natural language. Combined Gemini-based query understanding with a deterministic in-memory analytics engine to generate data-grounded results, interactive visualizations, business insights, and executive PDF reports.',
-      metric: 'Combines Gemini-powered query understanding with deterministic data execution, interactive visualizations, and automated multi-page PDF reporting.',
-      tags: ['React', 'Gemini', 'JavaScript', 'Data Analytics', 'Recharts', 'Zustand', 'Tailwind CSS', 'jsPDF'],
-      links: { github: 'https://github.com/poojakumaricodex/QueryIQ', external: '#' },
-      color: 'from-brand-blue to-brand-purple'
-    },
-    
-    {
       title: 'Retail Business Intelligence & Customer Segmentation',
       description: 'Built a 4-page BI dashboard to visualize profitability, regional performance, and discount impact. Performed end-to-end analysis including data cleaning, EDA, customer segmentation via clustering, and SQL-driven business insights.',
       metric: 'Analyzed 51,290+ retail transactions; identified that >20% discounts significantly erode margins',
       tags: ['SQL', 'Python', 'Power BI', 'Pandas', 'DAX', 'Scikit-Learn', 'ETL'],
       links: { github: 'https://github.com/poojakumaricodex/Retail-Business-Intelligence-Customer-Segmentation-Analysis', external: '#' },
       color: 'from-brand-green to-brand-blue'
+    },
+    {
+      title: 'QueryIQ — AI-Powered Natural Language Data Analysis',
+      description: 'Built an AI-powered data analytics platform that lets users upload CSV/Excel datasets and ask business questions in natural language. Combined Gemini-based query understanding with a deterministic in-memory analytics engine to generate data-grounded results, interactive visualizations, business insights, and executive PDF reports.',
+      metric: 'Combines Gemini-powered query understanding with deterministic data execution, interactive visualizations, and automated multi-page PDF reporting.',
+      tags: ['React', 'Gemini', 'JavaScript', 'Data Analytics', 'Recharts', 'Zustand', 'Tailwind CSS', 'jsPDF'],
+      links: { github: 'https://github.com/poojakumaricodex/QueryIQ', external: '#' },
+      color: 'from-brand-blue to-brand-purple'
     },
     {
       title: 'Zomato Restaurant Insights Dashboard',
