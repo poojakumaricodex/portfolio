@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: 'QueryIQ — AI-Powered Natural Language Data Analysis',
       description: 'Built an AI-powered data analytics platform that lets users upload CSV/Excel datasets and ask business questions in natural language. Combined Gemini-based query understanding with a deterministic in-memory analytics engine to generate data-grounded results, interactive visualizations, business insights, and executive PDF reports.',
-      metric: 'Built an end-to-end analytics platform supporting CSV/XLSX analysis, natural-language querying, interactive charts, and multi-page executive reporting.',
+      metric: 'Combines Gemini-powered query understanding with deterministic data execution, interactive visualizations, and automated multi-page PDF reporting.',
       tags: ['React', 'Gemini', 'JavaScript', 'Data Analytics', 'Recharts', 'Zustand', 'Tailwind CSS', 'jsPDF'],
       links: { github: 'https://github.com/poojakumaricodex/QueryIQ', external: '#' },
       color: 'from-brand-blue to-brand-purple'
